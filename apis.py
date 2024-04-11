@@ -1,0 +1,1 @@
+BLOCK_API = "https://opendata.fcc.gov/resource/vakf-fz8e.json"
